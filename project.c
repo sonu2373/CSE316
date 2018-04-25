@@ -1,4 +1,13 @@
-#include<stdio.h>
+/* Created By By-Sonu Kumar Gupta	
+	Section-K1650
+	Registration no-11615584
+	Roll No-B52
+	University-Lovely Professional University
+
+--------------------------------------------------------------------------------------------------------------------------------------*/
+ 
+ 
+ #include<stdio.h>
 int n,nf;
 int in[100];
 int p[50];
